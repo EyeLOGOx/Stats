@@ -193,6 +193,97 @@
             }
         ]
     },
+       "Golden Scott": {
+        "Type": "Continuous Splash",
+        "Image": "rbxassetid://117814555869184",
+        "Rarity": "Secret",
+        "PlacePrice": 50000,
+        "Offset": 1.25,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 10000,
+                "Cooldown": 0.5
+            },
+
+            {
+                "Price": 10000,
+                "Range": 28,
+                "Damage": 16000,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 15000,
+                "Range": 31,
+                "Damage": 22000,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 20000,
+                "Range": 34,
+                "Damage": 28000,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 25000,
+                "Range": 37,
+                "Damage": 34000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 30000,
+                "Range": 45,
+                "Damage": 40000,
+                "Cooldown": 0.2
+            }
+        ]
+    },
+     "Glitched Old Man Consequences": {
+        "Type": "Aoe + Splash",
+        "Image": "rbxassetid://95479691284429",
+        "Rarity": "Apex",
+        "PlacePrice": 120000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 10000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 222220,
+                "Range": 28,
+                "Damage": 12500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 333330,
+                "Range": 32,
+                "Damage": 15000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 444440,
+                "Range": 35,
+                "Damage": 18000,
+                "Cooldown": 0.1
+            }
+        ]
+    },
     "Withered Chica": {
         "Type": "Single",
         "Image": "rbxassetid://16632209265",
